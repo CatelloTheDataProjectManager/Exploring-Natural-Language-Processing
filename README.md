@@ -1,4 +1,4 @@
-# Exploring pre-trained models - GPT-2, BERT, Sentiment Analysis, ChatGPT🤖
+# Exploring pre-trained models - GPT-2, BERT, ChatGPT🤖
 
 ## GPT-2:
 
