@@ -2,7 +2,7 @@
 
 ## GPT-2:
 
-- Demonstrations on text generation using GPT-2 model and tokenization with examples.
+- Demonstrations on text generation using GPT-2 model.
 
 ## BERT:
 
