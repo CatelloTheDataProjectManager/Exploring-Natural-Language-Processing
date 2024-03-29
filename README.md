@@ -9,12 +9,14 @@
 - Utilization of BERT (Bidirectional Encoder Representations from Transformers) for natural language processing tasks like text classification, named entity recognition, and sentiment analysis.
 - Loading pre-trained BERT model and tokenizer, followed by an example of sentiment analysis.
 
+###### (Modeling and Multivariate Regression are essential tools for understanding how these pre-trained models work and how they can be effectively used to solve complex natural language processing problems. [Introduction à la Modélisation et à la Régression Multivariée](https://github.com/CatelloTheDataProjectManager/Introduction-Modelisation-Regression-Multivarie/blob/main/README.md))
+
 ## Sentiment Analysis:
 
 - Creation of a dataset for sentiment analysis containing sample sentences and corresponding sentiments.
 - Implementation of sentiment prediction function using BERT and application on the dataset.
 
-<img src="https://github.com/CatelloTheDataProjectManager/Exploring-pre-trained-models/blob/main/Sentiment_Analysis.png" alt="Sales Report Image" width="800">
+<img src="https://github.com/CatelloTheDataProjectManager/Exploring-pre-trained-models/blob/main/Sentiment_Analysis.png" alt="Sales Report Image" width="600">
 
 **Why sentiment analysis is important for businesses ? 💡**
 
